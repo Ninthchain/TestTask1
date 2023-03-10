@@ -1,6 +1,17 @@
-namespace ConsoleApp1.MyMath;
+using static System.Math;
 
-public class Surfaces
+namespace TestTask.MyMath
 {
-    
+    public static class Surface
+    {
+        public static double CountCircleSurface(double radius) => PI * Pow(radius, 2);
+
+        public static double CountTriangleSurface(double a, double b, double c)
+        {
+            double p = (a + b + c) / 2;
+            
+            //Heron's formula used
+            return Sqrt(p * (p - a) * (p - b) * (p - c));
+        }
+    }
 }
