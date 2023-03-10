@@ -1,0 +1,7 @@
+C:\Users\Drago\RiderProjects\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\Drago\RiderProjects\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\TestTask.exe
+C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\TestTask.pdb
