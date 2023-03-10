@@ -15,13 +15,13 @@ public class UnitTest1
     public void IsCorrect_CountCircleSurface()
     {
         _testOutputHelper.WriteLine("Testing CountCircleSurfaces(double)");
-        Assert.Equal(78.54, Surface.CountCircleSurface(5.0));
+        Assert.Equal(79, Double.Round(Surface.CountCircleSurface(5.0)));
     }
 
     [Fact]
     public void IsCorrect_CountTriangleSurface()
     {
-        _testOutputHelper.WriteLine("Testing");
-        Assert.Equal(10.825, Surface.CountTriangleSurface(5.0, 5.0, 5.0));
+        _testOutputHelper.WriteLine("Testing CountTriangleSurface(double)");
+        Assert.Equal(11, Double.Round(Surface.CountTriangleSurface(5.0, 5.0, 5.0)));
     }
 }

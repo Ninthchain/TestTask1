@@ -1,6 +1,4 @@
-C:\Users\Drago\RiderProjects\TestTask\TestTask\bin\Debug\net7.0\TestTask.exe
 C:\Users\Drago\RiderProjects\TestTask\TestTask\bin\Debug\net7.0\TestTask.deps.json
-C:\Users\Drago\RiderProjects\TestTask\TestTask\bin\Debug\net7.0\TestTask.runtimeconfig.json
 C:\Users\Drago\RiderProjects\TestTask\TestTask\bin\Debug\net7.0\TestTask.dll
 C:\Users\Drago\RiderProjects\TestTask\TestTask\bin\Debug\net7.0\TestTask.pdb
 C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\net7.0\TestTask.csproj.AssemblyReference.cache
@@ -11,5 +9,4 @@ C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\net7.0\TestTask.csproj.
 C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\net7.0\TestTask.dll
 C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\net7.0\refint\TestTask.dll
 C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\net7.0\TestTask.pdb
-C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\net7.0\TestTask.genruntimeconfig.cache
 C:\Users\Drago\RiderProjects\TestTask\TestTask\obj\Debug\net7.0\ref\TestTask.dll
