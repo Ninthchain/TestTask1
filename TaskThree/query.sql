@@ -5,7 +5,7 @@ CREATE TABLE Products (
 
 INSERT INTO Products
 VALUES
-    (1, 'C# in a Nutshell'),
+    (1, 'C# for Rookies'),
     (2, 'KIA Rio'),
     (3, 'ASUS Rog Strix');
 
